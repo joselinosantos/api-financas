@@ -9,3 +9,5 @@ API Django de dados financeiros
 6. Configurar app no settings
 7. Models de movimentacoes
 8. Criar pasta api e arquivos serializers.py, viewsets.py
+9. Criar rota
+10. Migrations e migrate
