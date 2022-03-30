@@ -7,3 +7,4 @@ API Django de dados financeiros
 4. Criar projeto Django
 5. Criar app movimentacoes
 6. Configurar app no settings
+7. Models de movimentacoes
