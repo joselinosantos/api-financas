@@ -8,3 +8,4 @@ API Django de dados financeiros
 5. Criar app movimentacoes
 6. Configurar app no settings
 7. Models de movimentacoes
+8. Criar pasta api e arquivos serializers.py, viewsets.py
