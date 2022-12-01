@@ -1,6 +1,7 @@
 # API finanças
 API Django de dados financeiros
 ![](https://github.com/joselinosantosti/api-financas/blob/main/api.png)
+![](https://github.com/joselinosantosti/api-financas/blob/main/swagger.png)
 
 1. Criar pasta para o projeto
 2. Criar e ativar venv
