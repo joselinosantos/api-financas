@@ -1,3 +1,7 @@
 from django.contrib import admin
+from .models import Conta
 
-# Register your models here.
+class Contas(admin.ModelAdmin):
+    list_display = ['descricao', 'instituicao', 'agencia', 'conta', 'saldo']
+
+admin.site.register(Conta, Contas)
